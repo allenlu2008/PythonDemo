@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20180328</CreaDate><CreaTime>20504800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Spatial Analyst Tools.tbx\HillShade" Date="20180328" Time="205048">HillShade D:\workspace\DevWork\blog\python\other\山体阴影/dem/rkzNorth2.tif D:\workspace\DevWork\blog\python\other\山体阴影\dem\HillSha_rkzNort2.tif 315 45 NO_SHADOWS 1</Process></lineage></DataProperties></Esri></metadata>

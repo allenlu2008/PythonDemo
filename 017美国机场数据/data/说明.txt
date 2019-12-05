@@ -1,0 +1,26 @@
+us:美国各州信息表
+字段信息：略
+
+
+USAAirport ：美国机场表
+字段信息：
+State 州
+Airport Code 机场编码
+Airport Name 机场名称
+Approach 着陆条件
+City 所在城市
+type 机场类型（机场、直升机场、热气球港，水上机场，短场起降机场）
+Latitude 纬度（wgs84）
+Longitude 经度（wgs84）
+Elevation 高程（英尺）
+Variation 磁差
+From City 最近城市的距离
+Customs Landing Rights 海关登陆权
+Sectional Chart 分区航图
+Ownership 所属类型（公共 & 私有）
+Owner 所有者
+Address 机场地址
+Phone 联系电话
+Manager 管理（联系）人
+ManagerAddress 管理人联系地址
+ManagerPhone 管理者联系电话
